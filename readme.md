@@ -6,7 +6,7 @@
 <p>The goal of this interview is to see how well you can complete low-level tasks associated with WordPress.</p>
 
 ##Tasks
-1. Update the styling of the contact form page, to match [this screenshot.]('wp-content/themes/technical_interview/assets/images/contact-page-example.png'); ?>)
+1. Update the styling of the contact form page, to match [this screenshot.](wp-content/themes/technical_interview/assets/images/contact-page-example.png)
 1. Validate the contact form fields using JavaScript.
 1. Submit the contact form using admin-ajax.php or the REST API.
 1. Validate the form fields using the WordPress plugin.
